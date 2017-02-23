@@ -13,7 +13,7 @@
 
 #import <JavaScriptCore/JavaScriptCore.h>
 
-#import <jschelpers/JavaScriptCore.h>
+#import "JavaScriptCore.h"
 
 #import "JSCSamplingProfiler.h"
 #import "RCTAssert.h"
